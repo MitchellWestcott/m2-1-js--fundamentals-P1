@@ -13,6 +13,11 @@ function exercise10() {
   //
   // Write code between the lines (below)
   // -----------------------------------------------------------------
+
+  for (let hash = "#"; hash.length <= 7; hash += "#") {
+    console.log(hash);
+  }
+
   // -----------------------------------------------------------------
   // Write code between the lines (above)
   //
